@@ -76,7 +76,7 @@ La matrice de confusion permet de visualiser la performance du modèle en affich
 # Ligne 2 (TV Show) :
 0 : Nombre de TV Shows incorrectement classés comme "Movie" (faux positif).
 32 : Nombre de TV Shows correctement classés comme "TV Show" (vrai positif).
-# Cette matrice montre que le modèle a très bien performé, avec seulement une petite erreur où un film a été classé comme TV Show. Il n'y a eu aucune erreur de classification d'une TV Show en tant que film.
+Cette matrice montre que le modèle a très bien performé, avec seulement une petite erreur où un film a été classé comme TV Show. Il n'y a eu aucune erreur de classification d'une TV Show en tant que film.
 
 # Rapport de Classification
 
