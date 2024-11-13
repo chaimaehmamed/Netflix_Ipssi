@@ -1,6 +1,7 @@
 # Analyse de l'Arbre de Décision pour la Prédiction du Type de Contenu Netflix
 
 Cet arbre de décision vise à prédire le type de contenu sur Netflix (Movies ou TV Show) en se basant sur plusieurs attributs, notamment la durée, le pays, et le classement. Les noeuds de l'arbre représentent les décisions prises en fonction de ces attributs, tandis que les feuilles correspondent aux prédictions finales du modèle (classe Movie ou TV Show).
+arbre de decision .png
 
 # Chaque noeud affiche des informations clés :
   
