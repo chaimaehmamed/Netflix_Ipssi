@@ -62,7 +62,7 @@ Interprétation : Dans un cas extrêmement rare où toutes les autres conditions
 # Évaluation du Modèle
 
 Après l'entraînement de l'arbre de décision, nous avons évalué les performances du modèle sur les données de test. Voici les résultats détaillés :
-
+Eval.png
 
 # Matrice de Confusion
 
